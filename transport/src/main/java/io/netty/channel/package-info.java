@@ -19,4 +19,8 @@
  * various transports such as a
  * <a href="https://en.wikipedia.org/wiki/New_I/O#Channels">NIO Channel</a>.
  */
+/**
+ * netty通道核心类
+ * 为了解决传统套接字（Socket）网络编程中的烦琐不易之处
+ */
 package io.netty.channel;

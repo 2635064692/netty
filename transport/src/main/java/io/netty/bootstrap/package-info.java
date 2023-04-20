@@ -18,4 +18,7 @@
  * The helper classes with fluent API which enable an easy implementation of
  * typical client side and server side channel initialization.
  */
+/**
+ * netty启动核心类
+ */
 package io.netty.bootstrap;

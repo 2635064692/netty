@@ -17,4 +17,7 @@
 /**
  * Abstract TCP and UDP socket interfaces which extend the core channel API.
  */
+/**
+ * netty套接字封装
+ */
 package io.netty.channel.socket;
